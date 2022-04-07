@@ -23,6 +23,11 @@ body{
 	background-color: yellow;
 
 }
+
+a:hover a:focus {
+	color: white;
+}
+
 .container
 {
 	background-color: grey;
